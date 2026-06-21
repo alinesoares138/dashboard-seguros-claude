@@ -8,7 +8,7 @@ Este projeto apresenta uma análise de negócio aplicada ao setor de seguros aut
 
 O objetivo foi simular uma análise real de uma área de **Data Analytics / Business Intelligence** dentro de uma seguradora, avaliando risco, frequência de sinistros, precificação, custos de indenização e evolução da carteira.
 
-[![Abrir Dashboard](https://img.shields.io/badge/🚀_Abrir_Dashboard-5383EC?style=for-the-badge&logoColor=white)](https://alinesoares138.github.io/dashboard-seguros-claude/)
+[![Acessar Dashboard](https://img.shields.io/badge/🚀_Acessar_Dashboard-5383EC?style=for-the-badge&logoColor=white)](https://alinesoares138.github.io/dashboard-seguros-claude/)
 
 # 🎯 Problema de negócio
 
