@@ -183,6 +183,7 @@ A análise demonstra como métodos quantitativos podem apoiar decisões:
 * React
 * Vite
 * JavaScript
+* Git
 * GitHub Pages
 * Estatística aplicada
 * Econometria
