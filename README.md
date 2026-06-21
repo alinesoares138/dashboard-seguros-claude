@@ -11,9 +11,8 @@ O objetivo foi simular uma análise real de uma área de **Data Analytics / Busi
 🔗 Dashboard interativo:
 🔗 <a href="https://alinesoares138.github.io/dashboard-seguros-claude/" target="_blank">
 Abrir dashboard interativo
-</a>
 
----
+</a>
 
 # 🎯 Problema de negócio
 
